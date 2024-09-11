@@ -1,4 +1,5 @@
-## Ridge Regression Model for Insurance Charges
+## Analyzing Insurance Charges Using Ridge Regression
+
 
 ### Key Takeaways from the Model:
 
