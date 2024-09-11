@@ -1,6 +1,6 @@
-Ridge Regression Model for Insurance Charges
+## Ridge Regression Model for Insurance Charges
 
-Key Takeaways from the Model:
+### Key Takeaways from the Model:
 
 -Age and BMI are strong predictors of insurance charges, with older individuals and those with higher BMIs expected to have higher charges.
 
@@ -11,8 +11,7 @@ Key Takeaways from the Model:
 -Smoking has the most substantial impact, with smokers incurring significantly higher charges.
 
 
-Dataset
-The dataset includes the following features:
+### Dataset
 
 age: Age of the individual
 
@@ -27,7 +26,7 @@ smoker: Smoking status (yes/no)
 charges: Insurance charges (target variable)
 
 
-
+### Code:
 
 1. Load the Dataset
 
